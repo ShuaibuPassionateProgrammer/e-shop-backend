@@ -11,6 +11,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+import routes from './routes';
+
+app.use('/api', routes);
+
 app.get('/', (req, res) => {
   res.json({ message: 'E-commerce API running!' });
 });
