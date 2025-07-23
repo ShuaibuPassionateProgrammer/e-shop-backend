@@ -25,5 +25,18 @@
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.35.1",
     "vite": "^7.0.4"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShuaibuPassionateProgrammer/e-shop-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShuaibuPassionateProgrammer/e-shop-backend/issues"
+  },
+  "homepage": "https://github.com/ShuaibuPassionateProgrammer/e-shop-backend#readme"
 }
